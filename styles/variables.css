@@ -1,0 +1,15 @@
+:root {
+    --main-font: 'Aleo', serif;
+    --secondary-font: 'Red Hat Text', sans-serif;
+
+    --header-l1-size: 80px;
+    --header-l2-size: 40px;
+    --header-l3-size: 35px;
+
+    --txt-small-size: 16px;
+    --txt-main-size: 20px;
+    --txt-md-size: 24px;
+
+    --main-color: #0D606F;
+    --secondary-color: #F2785C;
+}
